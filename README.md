@@ -1,2 +1,3 @@
 # HR-Analytics-Dashboard
  This Power BI dashboard gives a quick view of the workforce: attrition count, attrition rate, active employees, average age, and job satisfaction. It also breaks down attrition by gender, age groups, department, and education field. This helps us make data-driven decisions, predict attrition, optimize resources, improve job satisfaction, promote diversity, and tailor HR strategies. Paying attention to attrition is vital for HR because it helps identify potential issues, minimize talent loss, and ensure a stable and satisfied workforce.
+step 1 -Please kindly click file with pbix extension step 2 Click on the View raw or download button to download pbix file
